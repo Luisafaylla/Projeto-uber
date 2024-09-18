@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.altura{
+    height: 80px;
+
+}
+.largura-uber{
+    width: 80px;
+
+}
+.palavras{
+    text-decoration: none;
+    padding: 8px;
+    margin-right: 90vh;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 4px;
+}
+.botão{
+    background-color: white;
+    color: black;
+    border-radius: 40px;
+}
